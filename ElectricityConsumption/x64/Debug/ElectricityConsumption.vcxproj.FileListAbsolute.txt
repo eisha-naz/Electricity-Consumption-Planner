@@ -1,0 +1,3 @@
+D:\ElectricityConsumption\ElectricityConsumption\x64\Debug\ElectricityConsumption.vcxproj.AssemblyReference.cache
+D:\ElectricityConsumption\ElectricityConsumption\x64\Debug\ElectricityConsumption.input.resources
+D:\ElectricityConsumption\ElectricityConsumption\x64\Debug\ElectricityConsumption.vcxproj.GenerateResource.cache

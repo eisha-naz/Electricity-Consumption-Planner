@@ -1,0 +1,10 @@
+Appliance, Wattage (W), Units per Hour, Cost per Hour (Currency), Peak Cost per Hour (Currency)
+Fridge, 150, 0.15, 3.00, 3.00
+Air Conditioner, 2000, 2.00, 40.00, 60.00
+TV, 100, 0.10, 2.00, 2.00
+Microwave, 1200, 1.20, 24.00, 36.00
+Fan, 75, 0.075, 1.50, 1.50
+Heater, 1500, 1.50, 30.00, 45.00
+Washing Machine, 500, 0.50, 10.00, 15.00
+Oven, 2000, 2.00, 40.00, 60.00
+Dryer, 1500, 1.50, 30.00, 45.00

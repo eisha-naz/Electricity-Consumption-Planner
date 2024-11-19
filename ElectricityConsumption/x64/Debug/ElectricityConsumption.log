@@ -1,0 +1,4 @@
+﻿  input.cpp
+D:\ElectricityConsumption\ElectricityConsumption\input.cpp(8,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  input.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ElectricityConsumption.vcxproj -> D:\ElectricityConsumption\x64\Debug\ElectricityConsumption.exe
